@@ -1,2 +1,2 @@
 # SpaceWar
-Space War with Processing4
+2D Space War Game  with Processing4
